@@ -1,6 +1,6 @@
 body{
 	font-family: 'Noto Sans TC', sans-serif;
-	color:#666666
+	color:#868E96
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -23,21 +23,21 @@ interest, .skill{
 }
 
 a{
-	color:#B088FF
+	color:#625b57
 }
 
 a:active,a:focus,a:hover{
-	color:#B088FF
+	color:#625b57
 }
 
 .text-primary{
-	color:#B088FF !important
+	color:#625b57 !important
 }
 
 .bg-primary{
-	background-color:#D1BBFF !important
+	background-color:#27c281 !important
 }
 
 .social-icons a:hover{
-	background-color:#D1BBFF
+	background-color:#27c281
 }
