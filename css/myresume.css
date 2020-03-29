@@ -1,6 +1,8 @@
 body{
 	font-family: 'Noto Sans TC', sans-serif;
 	color:#868E96
+	font-weight:normal;
+
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -27,17 +29,17 @@ a{
 }
 
 a:active,a:focus,a:hover{
-	color:#625b57
+	color:#404040
 }
 
 .text-primary{
-	color:#625b57 !important
+	color:#003366 !important
 }
 
 .bg-primary{
-	background-color:#27c281 !important
+	background-color:#F75000 !important
 }
 
 .social-icons a:hover{
-	background-color:#27c281
+	background-color:#F75000
 }
