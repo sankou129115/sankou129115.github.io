@@ -38,7 +38,7 @@ a:active,a:focus,a:hover{
 
 .bg-primary{
 	background-color:#F75000 !important ;
-        background-image: url("img/black-felt.png") ;
+        background-image: url("black-felt.png") ;
 }
 
 .social-icons a:hover{
