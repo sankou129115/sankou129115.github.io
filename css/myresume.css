@@ -4,6 +4,10 @@ body{
 	color:#696969	
 }
 
+a.{
+       font-size:16px !important
+}
+
 .text-primary{
 	color:#003366 !important
 }
