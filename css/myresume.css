@@ -20,13 +20,13 @@ h1{
 h2{
 	font-family: 'Noto Serif TC', serif;
 	text-transform:none;
-	color:#ba8959
+	color:#8B4513
 }
 
 h3{
 	font-family: 'Noto Serif TC', serif;
 	text-transform:none;
-	color:#132226
+	color:#132226 !important
 }
 
 .subheading{
