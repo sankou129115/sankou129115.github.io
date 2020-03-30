@@ -46,6 +46,10 @@ interest, .skill{
 	font-size:25px
 }
 
+a{
+	color:#625b57
+}
+
 a:active,a:focus,a:hover{
 	color:#404040
 }
