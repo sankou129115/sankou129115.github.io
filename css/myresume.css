@@ -1,14 +1,23 @@
 body{
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 14px;
-	color:#696969
-	
+	color:#696969	
 }
 
-h1,h2,h3,h4,h5,h6{
+.text-primary{
+	color:#003366 !important
+}
+
+h1{
 	font-family: 'Noto Serif TC', serif;
 	text-transform:none;
-	color:#996633
+	color:#282726
+}
+
+h2,h3,h4,h5,h6{
+	font-family: 'Noto Serif TC', serif;
+	text-transform:none;
+	color:#ba8959
 }
 
 .subheading{
@@ -30,10 +39,6 @@ a{
 
 a:active,a:focus,a:hover{
 	color:#404040
-}
-
-.text-primary{
-	color:#003366 !important
 }
 
 .bg-primary{
