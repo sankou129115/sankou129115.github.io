@@ -9,15 +9,24 @@ body{
 }
 
 h1{
-	font-family: 'Noto Serif TC', serif;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 72px;
+	font-weight:600;
+	line-height:5rem;
 	text-transform:none;
 	color:#282726
 }
 
-h2,h3,h4,h5,h6{
+h2{
 	font-family: 'Noto Serif TC', serif;
 	text-transform:none;
 	color:#ba8959
+}
+
+h3{
+	font-family: 'Noto Serif TC', serif;
+	text-transform:none;
+	color:#132226
 }
 
 .subheading{
