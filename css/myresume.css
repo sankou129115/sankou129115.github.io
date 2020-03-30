@@ -1,12 +1,12 @@
 body{
-	font-family: 'Noto Serif TC', serif;
+	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 14px;
 	color:#696969
 	
 }
 
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Noto Sans TC', sans-serif;
+	font-family: 'Noto Serif TC', serif;
 	text-transform:none;
 	color:#996633
 }
