@@ -1,6 +1,6 @@
 body{
 	font-family: 'Noto Sans TC', sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	color:#696969	
 }
 
@@ -56,9 +56,22 @@ a:active,a:focus,a:hover{
 
 .bg-primary{
 	background-color:#F75000 !important ;
-        background-image: url("black-felt.png") ;
+    background-image: url("black-felt.png") ;
 }
 
 .social-icons a:hover{
 	background-color:#F75000
 }
+
+ a:link{
+	color:#696969 
+ }
+ a:visisted{
+	 color:#FF7F50
+ }
+ a:hover{
+	 color:#6640FF
+ }
+ a:active{
+	 color:#404040
+ }
