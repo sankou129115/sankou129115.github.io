@@ -13,7 +13,7 @@ span.introduce{
 	color: #212226
 }
 
-h1{
+h1.h1{
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 72px;
 	font-weight: 600;
@@ -26,14 +26,14 @@ h1{
   color: #003366 !important
 }
 
-h2{
+h2.h2{
 	font-family: 'Noto Serif TC', serif;
 	font-size: 24pt;
 	text-transform: none;
 	color: #8B4513
 }
 
-h3{
+h3.h3{
 	font-family: 'Noto Serif TC', serif;
 	font-size: 18pt;
 	text-transform: none;
