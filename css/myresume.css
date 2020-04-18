@@ -22,13 +22,14 @@ h1.h1{
 	color: #282726
 }
 
-.text-primary{
-  color: #003366 !important
+.engname{
+	font-family: 'Noto Sans TC', sans-serif;
+    color: #064657 !important
 }
 
 h2.h2{
 	font-family: 'Noto Serif TC', serif;
-	font-size: 24pt;
+	font-size: 36pt;
 	text-transform: none;
 	color: #8B4513
 }
@@ -41,6 +42,7 @@ h3.h3{
 }
 
 div.subtitle{
+	font-family: 'Noto Sans TC', sans-serif;
 	color:#2b193e
 }
 
@@ -53,16 +55,16 @@ div.subtitle{
 	line-height: 2rem
 }
 
-.interest, .skill{
-	font-size: 25px
-}
-
 a{
 	color:#625b57
 }
 
 a:active,a:focus,a:hover{
 	color: #404040
+}
+
+.text-primary{
+	color: #003366
 }
 
 .bg-primary{
