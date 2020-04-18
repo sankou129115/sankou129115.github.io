@@ -1,50 +1,60 @@
 body{
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 16px;
-	color:#696969	
+	color: #696969;
 }
 
 a.{
-       font-size:16px !important
+    font-size: 18px !important
+}
+
+span.introduce{
+	font-size: 13pt;
+	color: #212226
+}
+
+h1{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 72px;
+	font-weight: 600;
+	line-height: 5rem;
+	text-transform: none;
+	color: #282726
 }
 
 .text-primary{
-	font-family: 'Noto Sans TC', sans-serif;
-	color:#003366 !important
+  color: #003366 !important
 }
 
-.h1{
-	font-family: 'Noto Sans TC', sans-serif;
-	font-size: 72px;
-	font-weight:600;
-	line-height:5rem;
-	text-transform:none;
-	color:#282726
-}
-
-.h2{
+h2{
 	font-family: 'Noto Serif TC', serif;
-	text-transform:none;
-	color:#8B4513
+	font-size: 24pt;
+	text-transform: none;
+	color: #8B4513
 }
 
-.h3{
+h3{
 	font-family: 'Noto Serif TC', serif;
-	text-transform:none;
-	color:#132226 !important
+	font-size: 18pt;
+	text-transform: none;
+	color: #132226 !important
+}
+
+div.subtitle{
+	color:#2b193e
 }
 
 .subheading{
-	text-transform:none;
+	text-transform: none;
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
 #about{
-	line-height:2rem
+	line-height: 2rem
 }
 
-interest, .skill{
-	font-size:25px
+.interest, .skill{
+	font-size: 25px
 }
 
 a{
@@ -52,23 +62,23 @@ a{
 }
 
 a:active,a:focus,a:hover{
-	color:#404040
+	color: #404040
 }
 
 .bg-primary{
-	background-color:#F75000 !important ;
+	background-color: #F75000 !important ;
     background-image: url("black-felt.png") ;
 }
 
 .social-icons a:hover{
-	background-color:#F75000
+	background-color: #F75000
 }
 
- a:link{
-	color:#696969 
+ :link{
+	color: #696969 
  }
  a:visisted{
-	 color:#FF7F50
+	 color: #FF7F50
  }
  a:hover{
 	 color:#6640FF
@@ -76,15 +86,3 @@ a:active,a:focus,a:hover{
  a:active{
 	 color:#404040
  }
- p.introduce{
-	 font-size: 20px
- }
- div.address{
-	 font-size: 18px
- }
- div.subtitle{
-	 font-size: 20px
- }
- div.p{
-	 font-size: 20px
-}
