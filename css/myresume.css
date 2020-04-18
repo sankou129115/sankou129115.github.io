@@ -35,15 +35,24 @@ h2.h2{
 }
 
 h3.h3{
-	font-family: 'Noto Serif TC', serif;
+	font-family: 'Noto Serif TC', sans-serif;
 	font-size: 18pt;
 	text-transform: none;
-	color: #132226 !important
+	line-height: 1.5;
+	color: #52780b!important
 }
 
 div.subtitle{
 	font-family: 'Noto Sans TC', sans-serif;
-	color:#2b193e
+	font-size: 16pt;
+	line-height: 2 ;
+	color: #a3765d
+}
+
+p.experience1{
+	font-family: 'Noto Serif TC', sans-serif;
+	font-size: 14pt;
+	line-height: 2rem
 }
 
 .subheading{
@@ -64,7 +73,8 @@ a:active,a:focus,a:hover{
 }
 
 .text-primary{
-	color: #003366
+	font-size: 14pt;
+	color: #003366 !important
 }
 
 .bg-primary{
