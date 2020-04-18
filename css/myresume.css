@@ -25,6 +25,7 @@ h1.h1{
 .engname{
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 64pt;
+	text-transform: capitalize
     color: #064657 !important
 }
 
