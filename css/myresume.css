@@ -101,11 +101,15 @@ a:active,a:focus,a:hover{
 	 color:#404040
  }
  
- ul.{
+ ul.interests-icon{
 	 font-size: 2rem ;
 	 color: #270101
  }
  
  ul.workflows-icon,ul.awards-icon{
 	 font-size: 14pt
+ }
+ 
+ ul.{
+	 padding-left: 0pt
  }
