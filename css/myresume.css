@@ -51,7 +51,7 @@ div.subtitle{
 	color: #a3765d
 }
 
-p.{
+p.experience1{
 	font-family: 'Noto Serif TC', sans-serif;
 	font-size: 14pt;
 	line-height: 2rem
@@ -101,7 +101,7 @@ a:active,a:focus,a:hover{
 	 color:#404040
  }
  
- i.{
-	 font-size: 40pt;
+ ul.{
+	 font-size: 2rem ;
 	 color: #270101
  }
