@@ -13,6 +13,10 @@ span.introduce{
 	color: #212226
 }
 
+span.chinese{
+	color:#212226
+}
+
 h1.h1{
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 72px;
@@ -48,7 +52,7 @@ div.subtitle{
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 16pt;
 	line-height: 2 ;
-	color: #a3765d
+	color: #b8860b
 }
 
 p.experience1{
