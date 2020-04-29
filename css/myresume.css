@@ -93,13 +93,13 @@ a:active,a:focus,a:hover{
 }
 
  a:link{
-	color: #696969 
+	color: #0a6000
  }
  a:visisted{
 	 color: #FF7F50
  }
  a:hover{
-	 color:#6640FF
+	 color:#b8860b
  }
  a:active{
 	 color:#404040
@@ -109,4 +109,14 @@ a:active,a:focus,a:hover{
 	 font-size: 2rem ;
 	 padding-left: 0
  }
+
+.card-header:first-child{
+	background-color: #f1f3f2;
+	text-align: center
+}
+
+.card-body{
+	padding: 1rem 1.25 ;
+	text-align: center
+}
  
