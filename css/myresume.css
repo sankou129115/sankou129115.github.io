@@ -85,6 +85,7 @@ a:active,a:focus,a:hover{
 
 .bg-primary{
     background-image: url("purty-wood.png") ;
+	background-color:#3b5998
 }
 
 .social-icons a:hover{
