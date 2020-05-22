@@ -4,8 +4,19 @@ body{
 	color: #696969;
 }
 
+section.resume-section{
+	background-color: #a3a3a3 !important;
+	background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");
+}
+
 a.{
     font-size: 18px !important
+}
+
+div.address{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 16px;
+	color: #696969;
 }
 
 span.introduce, div.card-text{
@@ -28,9 +39,9 @@ h1.h1{
 
 .engname{
 	font-family: 'Noto Sans TC', sans-serif;
-	font-size: 64pt;
+	font-size: 58pt;
 	text-transform: capitalize;
-    color: #064657 !important
+    color: #689550 !important
 }
 
 h2.h2{
@@ -41,11 +52,11 @@ h2.h2{
 }
 
 h3.h3,h3.card-title mb-0{
-	font-family: 'Noto Serif TC', sans-serif;
+	font-family: 'Noto Serif TC', sans-serif ;
 	font-size: 18pt;
 	text-transform: none;
 	line-height: 1.5;
-	color: #270101!important
+	color: #270101 !important
 }
 
 div.subtitle{
