@@ -66,6 +66,13 @@ h3.h3,h3.card-title mb-0{
 	color: #270101 !important
 }
 
+div.exp{
+	margin:0px atuo;
+	display:table;
+	color:#c00;
+	font-size:40px
+}
+
 div.experience{
 	background-color:white;
 	border:3px;
@@ -81,9 +88,14 @@ div.experience{
 
 p.intime{
 	font-family: 'Noto Serif TC', sans-serif;
-	font-size: 16pt;
+	font-size: 15pt;
 	line-height: 2rem;
 	color:#009999
+}
+
+i.fas fa-angle-down{
+	margin:0px auto;
+	
 }
 
 .subheading{
