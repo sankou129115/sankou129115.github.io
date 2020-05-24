@@ -58,7 +58,7 @@ h2.h2{
 	color: #8B4513
 }
 
-h3.h3,h3.card-title mb-0{
+h3.h3,h3.card-title.mb-0{
 	font-family: 'Noto Serif TC', sans-serif ;
 	font-size: 18pt;
 	text-transform: capitalize;
@@ -67,8 +67,6 @@ h3.h3,h3.card-title mb-0{
 }
 
 div.exp{
-	margin:0px atuo;
-	display:table;
 	color:#c00;
 	font-size:40px;
 	padding-top:40px;
@@ -145,7 +143,7 @@ a:active,a:focus,a:hover{
  }
  
  ul.interests-icon, ul.skills-icon{
-	 font-size: 2rem ;
+	 font-size: 2.5rem ;
 	 padding-left: 0
  }
 
