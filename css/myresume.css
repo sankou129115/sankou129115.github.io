@@ -19,9 +19,15 @@ div.address{
 	color: #191970;
 }
 
-span.introduce, div.card-text, p.interests{
+span.introduce{
 	font-size: 13pt;
 	color: #212226
+}
+
+div.card-text, p.interests{
+	font-size: 13pt;
+	color: #212226;
+	text-align:center;
 }
 
 span.chinese{
@@ -30,7 +36,7 @@ span.chinese{
 
 span.engname{
 	font-family: 'Noto Sans TC', sans-serif;
-    font-size: 52pt;
+    font-size: 48pt;
     text-transform: capitalize;
     color: #ffc !important;
 }
@@ -93,6 +99,19 @@ p.intime{
 	color:#212226
 }
 
+p.engedu{
+	color:#4d3900;
+	font-size:20px;
+}
+
+p.department{
+	
+}
+
+p.engsubedu{
+	
+}
+
 i.fas fa-angle-down{
 	margin:0px auto;
 	
@@ -105,6 +124,19 @@ ul.workflows-icon{
 li.workflows{
 	font-size:20px
 }
+
+ ul.interests-icon{
+	 font-size: 2.5rem ;
+	 padding-left: 0
+}
+
+ul.skills-icon{
+	 font-size: 2.5rem ;
+	 padding-left: 0;
+	 
+}
+
+
 
 .subheading{
 	text-transform: none;
@@ -125,7 +157,7 @@ a:active,a:focus,a:hover{
 
 .text-primary{
 	font-size: 14pt;
-	color: #003366 !important
+	color: #007f4e !important
 }
 
 .bg-primary{
@@ -150,11 +182,6 @@ a:active,a:focus,a:hover{
 	 color:#404040
  }
  
- ul.interests-icon, ul.skills-icon{
-	 font-size: 2.5rem ;
-	 padding-left: 0
- }
-
 .card-header:first-child{
 	background-color: #f1f3f2;
 	text-align: center
