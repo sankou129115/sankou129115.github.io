@@ -99,17 +99,24 @@ p.intime{
 	color:#212226
 }
 
+div.resume-content{
+	text-align:center;
+	padding:15px 20px;
+}
+
 p.engedu{
 	color:#4d3900;
 	font-size:20px;
 }
 
 p.department{
-	
+	color:#0a6000;
+	font-size:18px
 }
 
 p.engsubedu{
-	
+	color:#fffc00;
+	line-height:0px;
 }
 
 i.fas fa-angle-down{
@@ -157,7 +164,7 @@ a:active,a:focus,a:hover{
 
 .text-primary{
 	font-size: 14pt;
-	color: #007f4e !important
+	color: #003366 !important
 }
 
 .bg-primary{
