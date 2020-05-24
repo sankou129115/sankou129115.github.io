@@ -19,12 +19,12 @@ div.address{
 	color: #191970;
 }
 
-span.introduce, div.card-text{
+span.introduce, div.card-text, p.interests{
 	font-size: 13pt;
 	color: #212226
 }
 
-span.chinese, p.interests{
+span.chinese{
 	color:#212226
 }
 
@@ -96,6 +96,14 @@ p.intime{
 i.fas fa-angle-down{
 	margin:0px auto;
 	
+}
+
+ul.workflows-icon{
+	list-style-type:none
+}
+
+li.workflows{
+	font-size:20px
 }
 
 .subheading{
